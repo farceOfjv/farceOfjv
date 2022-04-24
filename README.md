@@ -1,6 +1,6 @@
 <p>
-  <a href="http:// #/" target="_blank"><img src="https://img.shields.io/badge/Blog?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="farceOfjuvenile@gmail.com" target="_blank"><img src="https://img.shields.io/badge/farceOfjuvenile@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="http://blog.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-513014?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="mailto:farceOfjuvenile@gmail.com" target="_blank"><img src="https://img.shields.io/badge/farceOfjuvenile@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
 ###  Skills
